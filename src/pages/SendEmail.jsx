@@ -4,8 +4,9 @@ import logo from "@logos/logo_yard_sale.svg";
 import email from "@icons/email.svg"
 
 const SendEmail = () => {
+     
 	return (
-		<div className="SendEmail">
+		<div className="SendEmail">sa
 			<div className="form-container">
 				<img src={logo} alt="logo" className="logo" />
 				<h1 className="title">Email has been sent!</h1>

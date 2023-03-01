@@ -11,9 +11,9 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     //donde va a vivir el proyecto una vez que este preparado
     
-    filename: "react-shop/bundle.js",
+    filename: "bundle.js",
     //nombre al empaquetado que se va a crear
-    publicPath: "react-shop",
+    publicPath: "/",
   },
   mode:"development",
   resolve: {
